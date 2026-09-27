@@ -1,0 +1,4 @@
+interface:
+  display_name: "六年级 Python 教学设计"
+  short_description: "面向零基础学生，生成有课标依据、任务小循环与合作评价的单课或大单元教学设计"
+  default_prompt: "请使用 $primary-python-lesson-design 帮我设计六年级Python课程，先检查教学内容、目标、重点和设计类型是否明确。"
